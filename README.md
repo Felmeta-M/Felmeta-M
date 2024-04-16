@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)](https://github.com/Felmeta-M)
 <h1 align="center">Hi 👋, I'm Felmeta Muktar</h1>
 <h3 align="center">A passionate frontend developer </h3>
-<h4 align="start"> With experience in designing, developing, and maintaining web applications </h4>
+<h4 align="start"> With experience in designing, developing, and maintaining web applications. </h4>
 <ul> 
   <li>Proficient in frontend technologies (HTML, CSS, JavaScript).</li>
   <li>Expertise in web frameworks like React, Vue, Node and Express.</li> 
