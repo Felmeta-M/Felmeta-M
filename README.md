@@ -14,7 +14,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felmeta-m&label=Profile%20views&color=0e75b6&style=flat" alt="felmeta-m" /> </p>
 
-- 🔭 I’m currently working on **AI Tuberculosis Medical Image Analysis**
+- 🔭 I’m currently working on **A Tuberculosis Medical Image Analysis**
 
 - 🌱 I’m currently learning **ReactJS, AWS**
 
