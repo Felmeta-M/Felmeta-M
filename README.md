@@ -7,7 +7,7 @@
   <li>Expertise in web frameworks like React, Vue, Node and Express.</li> 
   <li>Languages (Python, Java). </li>
   <li>Adept at database management using MongoDB and MYSQL.</li>
-  <li>Communicator and team player, committed to delivering high-quality solutions on time and within budget.</li>
+  <li>Communicator and team player, committed to delivering high-quality solutions on time.</li>
 </ul>
 <img align="right" alt="Coding" width = "400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
