@@ -3,9 +3,9 @@
 <h3 align="center">A passionate frontend developer </h3>
 <h4 align="start"> With experience in designing, developing, and maintaining web applications. </h4>
 <ul> 
-  <li>Proficient in frontend technologies (HTML, CSS, JavaScript).</li>
+  <li>Proficient in frontend technologies.</li>
   <li>Expertise in web frameworks like React, Vue, Node and Express.</li> 
-  <li>Languages (Python, Java). </li>
+  <li>Languages (JavaScript, Python, Java). </li>
   <li>Adept at database management using MongoDB and MYSQL.</li>
   <li>Communicator and team player, committed to delivering high-quality solutions on time.</li>
 </ul>
