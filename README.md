@@ -3,10 +3,9 @@
 <h3 align="center">A passionate frontend developer </h3>
 <h4 align="start"> With experience in designing, developing, and maintaining web applications. </h4>
 <ul> 
-  <li>Proficient in frontend technologies.</li>
-  <li>Expertise in web frameworks like React, Vue, Node and Express.</li> 
+  <li>Expertise in web frameworks like Next.js, React, Vue, Express and NestJS.</li> 
   <li>Languages (JavaScript, Python, Java). </li>
-  <li>Adept at database management using MongoDB and MYSQL.</li>
+  <li>Adept at database management using MongoDB, Postgresql and SQL.</li>
   <li>Communicator and team player, committed to delivering high-quality solutions on time.</li>
 </ul>
 <img align="right" alt="Coding" width = "400" src="https://miro.medium.com/v2/resize:fit:786/format:webp/1*gReLR6hZjwyBxHmfLN1AVw.gif">
@@ -16,7 +15,7 @@
 
 - 🔭 I’m currently working on **Tuberculosis Medical Image Analysis**
 
-- 🌱 I’m currently learning **ReactJS, AWS**
+- 🌱 I’m currently learning **Next.js, AWS**
 
 - 👯 I’m looking to collaborate on **open source projects**
 
